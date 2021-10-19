@@ -1,0 +1,659 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##### TDT |  #####" tvg-logo="" group-title="TDT",##### TDT |  #####
+http://carre.flysat.live:80/152078148493983/152041672823202/178519
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TVE INTERNACIONAL HD" tvg-logo="http://134.255.234.197/logos/tveinternacional.png" group-title="TDT",|SP| TVE INTERNACIONAL HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79362
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="|SP| LA 1 HD" tvg-logo="http://134.255.234.197/logos/tvela1hd.png" group-title="TDT",|SP| LA 1 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79361
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="|SP| LA 2  HD" tvg-logo="http://134.255.234.197/logos/tvela2hd.png" group-title="TDT",|SP| LA 2  HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79360
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="|SP| ANTENA 3 HD" tvg-logo="http://134.255.234.197/logos/antena3hd.png" group-title="TDT",|SP| ANTENA 3 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79359
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="|SP| CUATRO HD" tvg-logo="http://134.255.234.197/logos/cuatrohd.png" group-title="TDT",|SP| CUATRO HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79358
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="|SP| TELECINCO HD" tvg-logo="http://134.255.234.197/logos/telecincohd.png" group-title="TDT",|SP| TELECINCO HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79357
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="|SP| LA SEXTA HD" tvg-logo="http://134.255.234.197/logos/lasextahd.png" group-title="TDT",|SP| LA SEXTA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79356
+#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="|SP| CANAL SUR A." tvg-logo="http://134.255.234.197/logos/canalsurandalucia.png" group-title="TDT",|SP| CANAL SUR A.
+http://carre.flysat.live:80/152078148493983/152041672823202/79355
+#EXTINF:-1 tvg-id="FDF" tvg-name="|SP| FDF" tvg-logo="http://134.255.234.197/logos/fdf.png" group-title="TDT",|SP| FDF
+http://carre.flysat.live:80/152078148493983/152041672823202/79354
+#EXTINF:-1 tvg-id="Energy" tvg-name="|SP| ENERGY" tvg-logo="http://134.255.234.197/logos/energy.png" group-title="TDT",|SP| ENERGY
+http://carre.flysat.live:80/152078148493983/152041672823202/79353
+#EXTINF:-1 tvg-id="Divinity" tvg-name="|SP| DIVINITY" tvg-logo="http://134.255.234.197/logos/divinity.png" group-title="TDT",|SP| DIVINITY
+http://carre.flysat.live:80/152078148493983/152041672823202/79352
+#EXTINF:-1 tvg-id="Mega" tvg-name="|SP| MEGA HD" tvg-logo="http://134.255.234.197/logos/mega.png" group-title="TDT",|SP| MEGA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79351
+#EXTINF:-1 tvg-id="BE MAD HD" tvg-name="|SP| BE MAD" tvg-logo="http://134.255.234.197/logos/bemad.png" group-title="TDT",|SP| BE MAD
+http://carre.flysat.live:80/152078148493983/152041672823202/79350
+#EXTINF:-1 tvg-id="Canal 24 Horas" tvg-name="|SP| CANAL 24 HORAS" tvg-logo="http://134.255.234.197/logos/canal24horas.png" group-title="TDT",|SP| CANAL 24 HORAS
+http://carre.flysat.live:80/152078148493983/152041672823202/79349
+#EXTINF:-1 tvg-id="Hashtag0.es" tvg-name="|SP| 0 HD" tvg-logo="http://134.255.234.197/logos/cero.png" group-title="TDT",|SP| 0 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79348
+#EXTINF:-1 tvg-id="Aragón TV HD" tvg-name="|SP| ARAGON TV INT" tvg-logo="http://134.255.234.197/logos/aragontvint.png" group-title="TDT",|SP| ARAGON TV INT
+http://carre.flysat.live:80/152078148493983/152041672823202/79347
+#EXTINF:-1 tvg-id="Nova" tvg-name="|SP| NOVA" tvg-logo="http://134.255.234.197/logos/nova.png" group-title="TDT",|SP| NOVA
+http://carre.flysat.live:80/152078148493983/152041672823202/79346
+#EXTINF:-1 tvg-id="CanalOrbe21.es" tvg-name="|SP| CANAL ORBE21" tvg-logo="http://134.255.234.197/logos/canalorbe21.png" group-title="TDT",|SP| CANAL ORBE21
+http://carre.flysat.live:80/152078148493983/152041672823202/79345
+#EXTINF:-1 tvg-id="" tvg-name="|SP| 24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/120px-Logo_TVE-24h.svg.png" group-title="TDT",|SP| 24 HORAS
+http://carre.flysat.live:80/152078148493983/152041672823202/79344
+#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="|SP| TVGA HD" tvg-logo="https://i5.satexpat.com/cha/es/galicia-55x54.gif" group-title="TDT",|SP| TVGA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79343
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="|SP| #VAMOS HD" tvg-logo="http://134.255.234.197/logos/vamos.png" group-title="TDT",|SP| #VAMOS HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79342
+#EXTINF:-1 tvg-id="XTRM" tvg-name="|SP| XTRM HD" tvg-logo="http://134.255.234.197/logos/xtrm.png" group-title="TDT",|SP| XTRM HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79341
+#EXTINF:-1 tvg-id="ATRESERIES" tvg-name="|SP| ATRE SERIES HD" tvg-logo="http://134.255.234.197/logos/atreseries.png" group-title="TDT",|SP| ATRE SERIES HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79340
+#EXTINF:-1 tvg-id="Neox" tvg-name="|SP| NEOX" tvg-logo="http://134.255.234.197/logos/neox.png" group-title="TDT",|SP| NEOX
+http://carre.flysat.live:80/152078148493983/152041672823202/79339
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="|SP| BABY TV" tvg-logo="http://134.255.234.197/logos/babytv.png" group-title="INFANTIL",|SP| BABY TV
+http://carre.flysat.live:80/152078148493983/152041672823202/79337
+#EXTINF:-1 tvg-id="Boing" tvg-name="|SP| BOING" tvg-logo="http://134.255.234.197/logos/boing.png" group-title="INFANTIL",|SP| BOING
+http://carre.flysat.live:80/152078148493983/152041672823202/79336
+#EXTINF:-1 tvg-id="Clan HD" tvg-name="|SP| CLAN TVE" tvg-logo="http://134.255.234.197/logos/tveclan.png" group-title="INFANTIL",|SP| CLAN TVE
+http://carre.flysat.live:80/152078148493983/152041672823202/79335
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="|SP| DISNEY CH HD" tvg-logo="http://134.255.234.197/logos/disneychannel.png" group-title="INFANTIL",|SP| DISNEY CH HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79334
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="|SP| DISNEY JR" tvg-logo="http://134.255.234.197/logos/disneyjunior.png" group-title="INFANTIL",|SP| DISNEY JR
+http://carre.flysat.live:80/152078148493983/152041672823202/79333
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DREAMWORKS" tvg-logo="http://134.255.234.197/logos/disneyplus.png" group-title="INFANTIL",|SP| DREAMWORKS
+http://carre.flysat.live:80/152078148493983/152041672823202/79332
+#EXTINF:-1 tvg-id="Nick Junior" tvg-name="|SP| NICK JR" tvg-logo="http://134.255.234.197/logos/nickjr.png" group-title="INFANTIL",|SP| NICK JR
+http://carre.flysat.live:80/152078148493983/152041672823202/79331
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="|SP| NICKELODEON  HD" tvg-logo="http://134.255.234.197/logos/nickelodeon.png" group-title="INFANTIL",|SP| NICKELODEON  HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79330
+#EXTINF:-1 tvg-id="Panda" tvg-name="|SP| CANAL PANDA" tvg-logo="http://134.255.234.197/logos/canalpanda.png" group-title="INFANTIL",|SP| CANAL PANDA
+http://carre.flysat.live:80/152078148493983/152041672823202/79329
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NICK/MTV" tvg-logo="" group-title="INFANTIL",|SP| NICK/MTV
+http://carre.flysat.live:80/152078148493983/152041672823202/79328
+#EXTINF:-1 tvg-id="AMC" tvg-name="|SP| AMC HD" tvg-logo="http://134.255.234.197/logos/amc.png" group-title="ENTRETENIMIENTO",|SP| AMC HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79326
+#EXTINF:-1 tvg-id="AXN" tvg-name="|SP| AXN" tvg-logo="http://134.255.234.197/logos/axn.png" group-title="ENTRETENIMIENTO",|SP| AXN
+http://carre.flysat.live:80/152078148493983/152041672823202/79325
+#EXTINF:-1 tvg-id="AXN" tvg-name="|SP| AXN HD" tvg-logo="http://134.255.234.197/logos/axnhd.png" group-title="ENTRETENIMIENTO",|SP| AXN HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79324
+#EXTINF:-1 tvg-id="AXN White" tvg-name="|SP| AXN WHITE HD" tvg-logo="http://134.255.234.197/logos/axnwhitehd.png" group-title="ENTRETENIMIENTO",|SP| AXN WHITE HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79323
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="|SP| CALLE 13 HD" tvg-logo="http://134.255.234.197/logos/calle13hd.png" group-title="ENTRETENIMIENTO",|SP| CALLE 13 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79322
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="|SP| COMEDY CENTRAL HD" tvg-logo="http://134.255.234.197/logos/comedycentralhd.png" group-title="TDT",|SP| COMEDY CENTRAL HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79321
+#EXTINF:-1 tvg-id="Cosmo" tvg-name="|SP| COSMO HD" tvg-logo="http://134.255.234.197/logos/cosmo.png" group-title="ENTRETENIMIENTO",|SP| COSMO HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79320
+#EXTINF:-1 tvg-id="Fox" tvg-name="|SP| FOX HD" tvg-logo="http://134.255.234.197/logos/fox.png" group-title="ENTRETENIMIENTO",|SP| FOX HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79319
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="|SP| FOX LIFE HD" tvg-logo="http://134.255.234.197/logos/foxlife.png" group-title="ENTRETENIMIENTO",|SP| FOX LIFE HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79318
+#EXTINF:-1 tvg-id="Canal Hollywood" tvg-name="|SP| HOLLYWOOD HD" tvg-logo="http://134.255.234.197/logos/hollywood.png" group-title="ENTRETENIMIENTO",|SP| HOLLYWOOD HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79317
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="|SP| PARAMOUNT" tvg-logo="http://134.255.234.197/logos/paramountchannelhd.png" group-title="ENTRETENIMIENTO",|SP| PARAMOUNT
+http://carre.flysat.live:80/152078148493983/152041672823202/79316
+#EXTINF:-1 tvg-id="Sundance Channel" tvg-name="|SP| SUNDANCE TV" tvg-logo="http://134.255.234.197/logos/sundancetv.png" group-title="ENTRETENIMIENTO",|SP| SUNDANCE TV
+http://carre.flysat.live:80/152078148493983/152041672823202/79315
+#EXTINF:-1 tvg-id="Syfy" tvg-name="|SP| SYFY HD" tvg-logo="http://134.255.234.197/logos/syfy.png" group-title="ENTRETENIMIENTO",|SP| SYFY HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79314
+#EXTINF:-1 tvg-id="TCM" tvg-name="|SP| TCM HD" tvg-logo="http://134.255.234.197/logos/tcm.png" group-title="ENTRETENIMIENTO",|SP| TCM HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79313
+#EXTINF:-1 tvg-id="TNT" tvg-name="|SP| TNT HD" tvg-logo="http://134.255.234.197/logos/tnt.png" group-title="ENTRETENIMIENTO",|SP| TNT HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79312
+#EXTINF:-1 tvg-id="Classica.es" tvg-name="|SP| CLASSICA" tvg-logo="http://134.255.234.197/logos/classicahd-phibruspel.png" group-title="ENTRETENIMIENTO",|SP| CLASSICA
+http://carre.flysat.live:80/152078148493983/152041672823202/79311
+#EXTINF:-1 tvg-id="" tvg-name="------------ |SP| MOVIESTAR HD --------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="MOVISTAR PLUS",------------ |SP| MOVIESTAR HD --------------
+http://carre.flysat.live:80/152078148493983/152041672823202/79288
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.ACCION HD" tvg-logo="http://134.255.234.197/logos/movistaraccion.png" group-title="MOVISTAR PLUS",|SP| M.ACCION HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79287
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. CINE ESPANOL" tvg-logo="http://134.255.234.197/logos/movistarcineespagnol.png" group-title="MOVISTAR PLUS",|SP| M. CINE ESPANOL
+http://carre.flysat.live:80/152078148493983/152041672823202/79286
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="|SP| M. COMEDIA HD" tvg-logo="http://134.255.234.197/logos/movistarcomedia.png" group-title="MOVISTAR PLUS",|SP| M. COMEDIA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79285
+#EXTINF:-1 tvg-id="CanalPlusDCine.sp" tvg-name="|SP| M.DRAMA HD" tvg-logo="http://134.255.234.197/logos/movistardrama.png" group-title="MOVISTAR PLUS",|SP| M.DRAMA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79284
+#EXTINF:-1 tvg-id="M. Estrenos" tvg-name="|SP| M.ESTRENOS HD" tvg-logo="http://134.255.234.197/logos/movistarestrenos.png" group-title="MOVISTAR PLUS",|SP| M.ESTRENOS HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79283
+#EXTINF:-1 tvg-id="M. Series" tvg-name="|SP| M.SERIES HD" tvg-logo="http://134.255.234.197/logos/movistarseries.png" group-title="MOVISTAR PLUS",|SP| M.SERIES HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79280
+#EXTINF:-1 tvg-id="CanalPlusSeriesXtra.sp" tvg-name="|SP| M.SERIESMANIA HD" tvg-logo="http://134.255.234.197/logos/movistarseriesmania.png" group-title="MOVISTAR PLUS",|SP| M.SERIESMANIA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79279
+#EXTINF:-1 tvg-id="" tvg-name="-----| ALQUILER SPAIN |-----" tvg-logo="" group-title="MOVISTAR PLUS",-----| ALQUILER SPAIN |-----
+http://carre.flysat.live:80/152078148493983/152041672823202/179981
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 1" tvg-logo="" group-title="MOVISTAR PLUS",|ES| ALQUILER 1
+http://carre.flysat.live:80/152078148493983/152041672823202/179980
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 2 HD" tvg-logo="" group-title="MOVISTAR PLUS",|ES| ALQUILER 2 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/179979
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 3 HD" tvg-logo="" group-title="MOVISTAR PLUS",|ES| ALQUILER 3 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/179978
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 4 HD" tvg-logo="" group-title="MOVISTAR PLUS",|ES| ALQUILER 4 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/179977
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 5 HD" tvg-logo="" group-title="MOVISTAR PLUS",|ES| ALQUILER 5 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/179976
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 6 HD" tvg-logo="" group-title="MOVISTAR PLUS",|ES| ALQUILER 6 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/179975
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 7 HD" tvg-logo="" group-title="MOVISTAR PLUS",|ES| ALQUILER 7 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/179974
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 8 HD" tvg-logo="" group-title="MOVISTAR PLUS",|ES| ALQUILER 8 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/179973
+#EXTINF:-1 tvg-id="" tvg-name="------------- |SP| MUSICA HD -------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="MUSICA",------------- |SP| MUSICA HD -------------
+http://carre.flysat.live:80/152078148493983/152041672823202/79271
+#EXTINF:-1 tvg-id="MTV España" tvg-name="|SP| MTV" tvg-logo="http://134.255.234.197/logos/mtv.png" group-title="MUSICA",|SP| MTV
+http://carre.flysat.live:80/152078148493983/152041672823202/79270
+#EXTINF:-1 tvg-id="" tvg-name="|SP| MTV DANCE" tvg-logo="http://134.255.234.197/logos/mtvdance.png" group-title="MUSICA",|SP| MTV DANCE
+http://carre.flysat.live:80/152078148493983/152041672823202/79267
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="|SP| MEZZO LIVE HD" tvg-logo="http://134.255.234.197/logos/mezzolivehd.png" group-title="MUSICA",|SP| MEZZO LIVE HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79273
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="|SP| MEZZO" tvg-logo="http://134.255.234.197/logos/mezzo.png" group-title="MUSICA",|SP| MEZZO
+http://carre.flysat.live:80/152078148493983/152041672823202/79274
+#EXTINF:-1 tvg-id="" tvg-name="--------- |SP| CULTURA HD ------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="CULTURA",--------- |SP| CULTURA HD ------------
+http://carre.flysat.live:80/152078148493983/152041672823202/79266
+#EXTINF:-1 tvg-id="Blaze" tvg-name="|SP| BLAZE" tvg-logo="http://134.255.234.197/logos/blaze.png" group-title="CULTURA",|SP| BLAZE
+http://carre.flysat.live:80/152078148493983/152041672823202/79265
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="|SP| CANAL COCINA" tvg-logo="https://i5.satexpat.com/cha/es/canalCocina_90x27.gif" group-title="CULTURA",|SP| CANAL COCINA
+http://carre.flysat.live:80/152078148493983/152041672823202/79264
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="|SP| CANAL DECASA" tvg-logo="https://i5.satexpat.com/cha/es/decasa_85x29.gif" group-title="CULTURA",|SP| CANAL DECASA
+http://carre.flysat.live:80/152078148493983/152041672823202/79263
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="|SP| CAZAYPESCA HD" tvg-logo="https://i5.satexpat.com/cha/es/cazaYpesca_42x50.gif" group-title="CULTURA",|SP| CAZAYPESCA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79262
+#EXTINF:-1 tvg-id="Crímen + Investigación" tvg-name="|SP| CRIMEN+INVES" tvg-logo="https://i5.satexpat.com/cha/es/crimen-investigacion-80x68.png" group-title="CULTURA",|SP| CRIMEN+INVES
+http://carre.flysat.live:80/152078148493983/152041672823202/79261
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="|SP| DISCOVERY" tvg-logo="https://i5.satexpat.com/cha/es/Discovery-95x18.png" group-title="CULTURA",|SP| DISCOVERY
+http://carre.flysat.live:80/152078148493983/152041672823202/79260
+#EXTINF:-1 tvg-id="Historia" tvg-name="|SP| HISTORIA" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusHistoria_49x46.png" group-title="CULTURA",|SP| HISTORIA
+http://carre.flysat.live:80/152078148493983/152041672823202/79259
+#EXTINF:-1 tvg-id="Iberalia" tvg-name="|SP| IBERALIA TV" tvg-logo="https://i5.satexpat.com/cha/es/iberalia-35x40.png" group-title="CULTURA",|SP| IBERALIA TV
+http://carre.flysat.live:80/152078148493983/152041672823202/79258
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="|SP| NAT GEO HD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoChannel_95x37.gif" group-title="CULTURA",|SP| NAT GEO HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79257
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="|SP| NAT GEO WILD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="CULTURA",|SP| NAT GEO WILD
+http://carre.flysat.live:80/152078148493983/152041672823202/79256
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="|SP| NAT GEO WILD HD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="CULTURA",|SP| NAT GEO WILD HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79255
+#EXTINF:-1 tvg-id="Odisea" tvg-name="|SP| CANAL ODISEA" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusOdisea_41x46.png" group-title="CULTURA",|SP| CANAL ODISEA
+http://carre.flysat.live:80/152078148493983/152041672823202/79254
+#EXTINF:-1 tvg-id="Viajar" tvg-name="|SP| VIAJAR HD" tvg-logo="https://i5.satexpat.com/cha/es/viajar_85x31.png" group-title="CULTURA",|SP| VIAJAR HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79253
+#EXTINF:-1 tvg-id="VH1" tvg-name="|SP| VH1" tvg-logo="https://i5.satexpat.com/cha/es/vh1_eu_80x31.png" group-title="CULTURA",|SP| VH1
+http://carre.flysat.live:80/152078148493983/152041672823202/79252
+#EXTINF:-1 tvg-id="" tvg-name="##### |SP| DEPORTES #####" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="DEPORTES",##### |SP| DEPORTES #####
+http://carre.flysat.live:80/152078148493983/152041672823202/79278
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.DEPORTES1 HD" tvg-logo="http://134.255.234.197/logos/movistardeportes1.png" group-title="DEPORTES",|SP| M.DEPORTES1 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79277
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. DEPORTES HD" tvg-logo="http://134.255.234.197/logos/movistardeportes.png" group-title="DEPORTES",|SP| M. DEPORTES HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79276
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="|SP| TELEDEPORTE" tvg-logo="http://134.255.234.197/logos/teledeporte.png" group-title="DEPORTES",|SP| TELEDEPORTE
+http://carre.flysat.live:80/152078148493983/152041672823202/79275
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.WIMBLEDONHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Wimbledon.svg/225px-Wimbledon.svg.png" group-title="DEPORTES",|SP| M.WIMBLEDONHD
+http://carre.flysat.live:80/152078148493983/152041672823202/79272
+#EXTINF:-1 tvg-id="" tvg-name="--------------- |SP| SPORTS HD -------------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="DEPORTES",--------------- |SP| SPORTS HD -------------------
+http://carre.flysat.live:80/152078148493983/152041672823202/79310
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN 1" tvg-logo="" group-title="DEPORTES",|ES| DAZN 1
+http://carre.flysat.live:80/152078148493983/152041672823202/178493
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN 2" tvg-logo="" group-title="DEPORTES",|ES| DAZN 2
+http://carre.flysat.live:80/152078148493983/152041672823202/178492
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN 3" tvg-logo="" group-title="DEPORTES",|ES| DAZN 3
+http://carre.flysat.live:80/152078148493983/152041672823202/178491
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN 4" tvg-logo="" group-title="DEPORTES",|ES| DAZN 4
+http://carre.flysat.live:80/152078148493983/152041672823202/178490
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN F1" tvg-logo="" group-title="DEPORTES",|ES| DAZN F1
+http://carre.flysat.live:80/152078148493983/152041672823202/178489
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LCAMPEONES" tvg-logo="" group-title="DEPORTES",|ES| M. LCAMPEONES
+http://carre.flysat.live:80/152078148493983/152041672823202/178488
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. DEPORTES" tvg-logo="" group-title="DEPORTES",|ES| M. DEPORTES
+http://carre.flysat.live:80/152078148493983/152041672823202/178487
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TELEDEPORTE" tvg-logo="" group-title="DEPORTES",|ES| TELEDEPORTE
+http://carre.flysat.live:80/152078148493983/152041672823202/178486
+#EXTINF:-1 tvg-id="" tvg-name="|ES| REAL MADRID TV" tvg-logo="" group-title="DEPORTES",|ES| REAL MADRID TV
+http://carre.flysat.live:80/152078148493983/152041672823202/178485
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BARCA TV" tvg-logo="" group-title="DEPORTES",|ES| BARCA TV
+http://carre.flysat.live:80/152078148493983/152041672823202/178484
+#EXTINF:-1 tvg-id="" tvg-name="|ES| EUROSPORT 1" tvg-logo="" group-title="DEPORTES",|ES| EUROSPORT 1
+http://carre.flysat.live:80/152078148493983/152041672823202/178483
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. F1" tvg-logo="" group-title="DEPORTES",|ES| M. F1
+http://carre.flysat.live:80/152078148493983/152041672823202/178481
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. GOLF" tvg-logo="" group-title="DEPORTES",|ES| M. GOLF
+http://carre.flysat.live:80/152078148493983/152041672823202/178480
+#EXTINF:-1 tvg-id="" tvg-name="|ES| GOL TV" tvg-logo="" group-title="DEPORTES",|ES| GOL TV
+http://carre.flysat.live:80/152078148493983/152041672823202/178479
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES" tvg-logo="http://134.255.234.197/logos/movistarligadecampeones.png" group-title="DEPORTES",|SP| M.LCAMPEONES
+http://carre.flysat.live:80/152078148493983/152041672823202/79309
+#EXTINF:-1 tvg-id="" tvg-name="|SP| LALIGA TV BAR" tvg-logo="http://134.255.234.197/logos/laligatvbar.png" group-title="DEPORTES",|SP| LALIGA TV BAR
+http://carre.flysat.live:80/152078148493983/152041672823202/79308
+#EXTINF:-1 tvg-id="" tvg-name="|SP| BEIN LALIGA HD" tvg-logo="http://134.255.234.197/logos/beinsportslaliga.png" group-title="DEPORTES",|SP| BEIN LALIGA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79306
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="|SP| EUROSPORT1 HD" tvg-logo="http://134.255.234.197/logos/eurosport1hd.png" group-title="DEPORTES",|SP| EUROSPORT1 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79304
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="|SP| EUROSPORT 1" tvg-logo="http://134.255.234.197/logos/eurosport1.png" group-title="DEPORTES",|SP| EUROSPORT 1
+http://carre.flysat.live:80/152078148493983/152041672823202/79303
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="|SP| EUROSPORT 2" tvg-logo="http://134.255.234.197/logos/eurosport2.png" group-title="DEPORTES",|SP| EUROSPORT 2
+http://carre.flysat.live:80/152078148493983/152041672823202/79302
+#EXTINF:-1 tvg-id="GOL" tvg-name="|SP| GOL" tvg-logo="http://134.255.234.197/logos/gol.png" group-title="DEPORTES",|SP| GOL
+http://carre.flysat.live:80/152078148493983/152041672823202/79301
+#EXTINF:-1 tvg-id="Barça TV" tvg-name="|SP| BAR TV" tvg-logo="http://134.255.234.197/logos/barcatv.png" group-title="DEPORTES",|SP| BAR TV
+http://carre.flysat.live:80/152078148493983/152041672823202/79300
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="|SP| R. MADRID TV" tvg-logo="http://134.255.234.197/logos/realmadridtv.png" group-title="DEPORTES",|SP| R. MADRID TV
+http://carre.flysat.live:80/152078148493983/152041672823202/79299
+#EXTINF:-1 tvg-id="CanalPlusToros.es" tvg-name="|SP| TOROS HD" tvg-logo="http://134.255.234.197/logos/torostv.png" group-title="DEPORTES",|SP| TOROS HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79298
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 1 HD" tvg-logo="http://134.255.234.197/logos/dazn1.png" group-title="DEPORTES",|SP| DAZN 1 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79293
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 2 HD" tvg-logo="http://134.255.234.197/logos/dazn2.png" group-title="DEPORTES",|SP| DAZN 2 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79292
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 1" tvg-logo="" group-title="DEPORTES",FOOTTERS 1
+http://carre.flysat.live:80/152078148493983/152041672823202/178282
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 2" tvg-logo="" group-title="DEPORTES",FOOTTERS 2
+http://carre.flysat.live:80/152078148493983/152041672823202/178281
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 3" tvg-logo="" group-title="DEPORTES",FOOTTERS 3
+http://carre.flysat.live:80/152078148493983/152041672823202/178280
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 4" tvg-logo="" group-title="DEPORTES",FOOTTERS 4
+http://carre.flysat.live:80/152078148493983/152041672823202/178279
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 5" tvg-logo="" group-title="DEPORTES",FOOTTERS 5
+http://carre.flysat.live:80/152078148493983/152041672823202/178278
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS  6" tvg-logo="" group-title="DEPORTES",FOOTTERS  6
+http://carre.flysat.live:80/152078148493983/152041672823202/178276
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 7" tvg-logo="" group-title="DEPORTES",FOOTTERS 7
+http://carre.flysat.live:80/152078148493983/152041672823202/178275
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS  8" tvg-logo="" group-title="DEPORTES",FOOTTERS  8
+http://carre.flysat.live:80/152078148493983/152041672823202/178274
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 9" tvg-logo="" group-title="DEPORTES",FOOTTERS 9
+http://carre.flysat.live:80/152078148493983/152041672823202/178273
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 10" tvg-logo="" group-title="DEPORTES",FOOTTERS 10
+http://carre.flysat.live:80/152078148493983/152041672823202/178272
+#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="|SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga1.png" group-title="DEPORTES",|SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://carre.flysat.live:80/152078148493983/152041672823202/79291
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="|SP| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga2.png" group-title="DEPORTES",|SP| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://carre.flysat.live:80/152078148493983/152041672823202/79290
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="|SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga3.png" group-title="DEPORTES",|SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://carre.flysat.live:80/152078148493983/152041672823202/79289
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="|SP| M.FORMULA1 HD" tvg-logo="http://134.255.234.197/logos/movistarformula1.png" group-title="DEPORTES",|SP| M.FORMULA1 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79297
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. FORMULA1 HD" tvg-logo="http://134.255.234.197/logos/movistarformula1.png" group-title="DEPORTES",|SP| M. FORMULA1 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79296
+#EXTINF:-1 tvg-id="Golf.sp" tvg-name="|SP| M.GOLF HD" tvg-logo="http://134.255.234.197/logos/movistargolf.png" group-title="DEPORTES",|SP| M.GOLF HD
+http://carre.flysat.live:80/152078148493983/152041672823202/79295
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarpartidazo.png" group-title="DEPORTES",|SP| M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)
+http://carre.flysat.live:80/152078148493983/152041672823202/79294
+#EXTINF:-1 tvg-id="" tvg-name="-----| DEPORTES ESPANOL |-----" tvg-logo="" group-title="DEPORTES",-----| DEPORTES ESPANOL |-----
+http://carre.flysat.live:80/152078148493983/152041672823202/181241
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| DAZN 1" tvg-logo="" group-title="DEPORTES",|ES-4K| DAZN 1
+http://carre.flysat.live:80/152078148493983/152041672823202/181240
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| DAZN 2" tvg-logo="" group-title="DEPORTES",|ES-4K| DAZN 2
+http://carre.flysat.live:80/152078148493983/152041672823202/181239
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| DAZN 3" tvg-logo="" group-title="DEPORTES",|ES-4K| DAZN 3
+http://carre.flysat.live:80/152078148493983/152041672823202/181238
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| DAZN 4" tvg-logo="" group-title="DEPORTES",|ES-4K| DAZN 4
+http://carre.flysat.live:80/152078148493983/152041672823202/181237
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| DAZN F1" tvg-logo="" group-title="DEPORTES",|ES-4K| DAZN F1
+http://carre.flysat.live:80/152078148493983/152041672823202/181236
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. LCAMPEONES" tvg-logo="" group-title="DEPORTES",|ES-4K| M. LCAMPEONES
+http://carre.flysat.live:80/152078148493983/152041672823202/181235
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. LCAMPEON 2" tvg-logo="" group-title="DEPORTES",|ES-4K| M. LCAMPEON 2
+http://carre.flysat.live:80/152078148493983/152041672823202/181234
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. DEPORTES" tvg-logo="" group-title="DEPORTES",|ES-4K| M. DEPORTES
+http://carre.flysat.live:80/152078148493983/152041672823202/181233
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| TELEDEPORTE" tvg-logo="" group-title="DEPORTES",|ES-4K| TELEDEPORTE
+http://carre.flysat.live:80/152078148493983/152041672823202/181232
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| REAL MADRID TV" tvg-logo="" group-title="DEPORTES",|ES-4K| REAL MADRID TV
+http://carre.flysat.live:80/152078148493983/152041672823202/181231
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| BARCA TV" tvg-logo="" group-title="DEPORTES",|ES-4K| BARCA TV
+http://carre.flysat.live:80/152078148493983/152041672823202/181230
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| EUROSPORT 1" tvg-logo="" group-title="DEPORTES",|ES-4K| EUROSPORT 1
+http://carre.flysat.live:80/152078148493983/152041672823202/181229
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| EUROSPORT 2" tvg-logo="" group-title="DEPORTES",|ES-4K| EUROSPORT 2
+http://carre.flysat.live:80/152078148493983/152041672823202/181228
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. F1" tvg-logo="" group-title="DEPORTES",|ES-4K| M. F1
+http://carre.flysat.live:80/152078148493983/152041672823202/181227
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. GOLF" tvg-logo="" group-title="DEPORTES",|ES-4K| M. GOLF
+http://carre.flysat.live:80/152078148493983/152041672823202/181226
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| GOL TV" tvg-logo="" group-title="DEPORTES",|ES-4K| GOL TV
+http://carre.flysat.live:80/152078148493983/152041672823202/181225
+#EXTINF:-1 tvg-id="" tvg-name="-----| DEPORTES ESPAÑOL (SOLO PARTIDO) |-----" tvg-logo="" group-title="DEPORTES",-----| DEPORTES ESPAÑOL (SOLO PARTIDO) |-----
+http://carre.flysat.live:80/152078148493983/152041672823202/181224
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LALIGA" tvg-logo="" group-title="DEPORTES",|ES| M. LALIGA
+http://carre.flysat.live:80/152078148493983/152041672823202/181223
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LALIGA 1" tvg-logo="" group-title="DEPORTES",|ES| M. LALIGA 1
+http://carre.flysat.live:80/152078148493983/152041672823202/181222
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LALIGA 2" tvg-logo="" group-title="DEPORTES",|ES| M. LALIGA 2
+http://carre.flysat.live:80/152078148493983/152041672823202/181221
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LALIGA 3" tvg-logo="" group-title="DEPORTES",|ES| M. LALIGA 3
+http://carre.flysat.live:80/152078148493983/152041672823202/181220
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LALIGA 4" tvg-logo="" group-title="DEPORTES",|ES| M. LALIGA 4
+http://carre.flysat.live:80/152078148493983/152041672823202/181219
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LALIGA 6" tvg-logo="" group-title="DEPORTES",|ES| M. LALIGA 6
+http://carre.flysat.live:80/152078148493983/152041672823202/181218
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LALIGA 7" tvg-logo="" group-title="DEPORTES",|ES| M. LALIGA 7
+http://carre.flysat.live:80/152078148493983/152041672823202/181217
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LALIGA 8" tvg-logo="" group-title="DEPORTES",|ES| M. LALIGA 8
+http://carre.flysat.live:80/152078148493983/152041672823202/181216
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LALIGA 9" tvg-logo="" group-title="DEPORTES",|ES| M. LALIGA 9
+http://carre.flysat.live:80/152078148493983/152041672823202/181215
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LALIGA 10" tvg-logo="" group-title="DEPORTES",|ES| M. LALIGA 10
+http://carre.flysat.live:80/152078148493983/152041672823202/181214
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. DEPORTES 1" tvg-logo="" group-title="DEPORTES",|ES| M. DEPORTES 1
+http://carre.flysat.live:80/152078148493983/152041672823202/181213
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. DEPORTES 2" tvg-logo="" group-title="DEPORTES",|ES| M. DEPORTES 2
+http://carre.flysat.live:80/152078148493983/152041672823202/181212
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. DEPORTES 3" tvg-logo="" group-title="DEPORTES",|ES| M. DEPORTES 3
+http://carre.flysat.live:80/152078148493983/152041672823202/181211
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. DEPORTES 4" tvg-logo="" group-title="DEPORTES",|ES| M. DEPORTES 4
+http://carre.flysat.live:80/152078148493983/152041672823202/181210
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. DEPORTES 5" tvg-logo="" group-title="DEPORTES",|ES| M. DEPORTES 5
+http://carre.flysat.live:80/152078148493983/152041672823202/181209
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. DEPORTES 6" tvg-logo="" group-title="DEPORTES",|ES| M. DEPORTES 6
+http://carre.flysat.live:80/152078148493983/152041672823202/181208
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. DEPORTES 7" tvg-logo="" group-title="DEPORTES",|ES| M. DEPORTES 7
+http://carre.flysat.live:80/152078148493983/152041672823202/181207
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LCAMPEON 1" tvg-logo="" group-title="DEPORTES",|ES| M. LCAMPEON 1
+http://carre.flysat.live:80/152078148493983/152041672823202/181206
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LCAMPEON 2" tvg-logo="" group-title="DEPORTES",|ES| M. LCAMPEON 2
+http://carre.flysat.live:80/152078148493983/152041672823202/181205
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LCAMPEON 3" tvg-logo="" group-title="DEPORTES",|ES| M. LCAMPEON 3
+http://carre.flysat.live:80/152078148493983/152041672823202/181204
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LCAMPEON 4" tvg-logo="" group-title="DEPORTES",|ES| M. LCAMPEON 4
+http://carre.flysat.live:80/152078148493983/152041672823202/181203
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LCAMPEON 5" tvg-logo="" group-title="DEPORTES",|ES| M. LCAMPEON 5
+http://carre.flysat.live:80/152078148493983/152041672823202/181202
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LCAMPEON 6" tvg-logo="" group-title="DEPORTES",|ES| M. LCAMPEON 6
+http://carre.flysat.live:80/152078148493983/152041672823202/181201
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LCAMPEON 7" tvg-logo="" group-title="DEPORTES",|ES| M. LCAMPEON 7
+http://carre.flysat.live:80/152078148493983/152041672823202/181200
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LCAMPEON 8" tvg-logo="" group-title="DEPORTES",|ES| M. LCAMPEON 8
+http://carre.flysat.live:80/152078148493983/152041672823202/181199
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. WIMBLEDONHD" tvg-logo="" group-title="DEPORTES",|ES| M. WIMBLEDONHD
+http://carre.flysat.live:80/152078148493983/152041672823202/181198
+#EXTINF:-1 tvg-id="" tvg-name="-----| DEPORTES ESPAÑOL (SOLO PARTIDO) 4K |-----" tvg-logo="" group-title="TDT",-----| DEPORTES ESPAÑOL (SOLO PARTIDO) 4K |-----
+http://carre.flysat.live:80/152078148493983/152041672823202/181197
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. LALIGA" tvg-logo="" group-title="DEPORTES",|ES-4K| M. LALIGA
+http://carre.flysat.live:80/152078148493983/152041672823202/181196
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. LALIGA 1" tvg-logo="" group-title="DEPORTES",|ES-4K| M. LALIGA 1
+http://carre.flysat.live:80/152078148493983/152041672823202/181195
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. LALIGA 2" tvg-logo="" group-title="DEPORTES",|ES-4K| M. LALIGA 2
+http://carre.flysat.live:80/152078148493983/152041672823202/181194
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. LALIGA 3" tvg-logo="" group-title="DEPORTES",|ES-4K| M. LALIGA 3
+http://carre.flysat.live:80/152078148493983/152041672823202/181193
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. LALIGA 4" tvg-logo="" group-title="DEPORTES",|ES-4K| M. LALIGA 4
+http://carre.flysat.live:80/152078148493983/152041672823202/181192
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. LALIGA 6" tvg-logo="" group-title="DEPORTES",|ES-4K| M. LALIGA 6
+http://carre.flysat.live:80/152078148493983/152041672823202/181191
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. LALIGA 7" tvg-logo="" group-title="DEPORTES",|ES-4K| M. LALIGA 7
+http://carre.flysat.live:80/152078148493983/152041672823202/181190
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. LALIGA 8" tvg-logo="" group-title="DEPORTES",|ES-4K| M. LALIGA 8
+http://carre.flysat.live:80/152078148493983/152041672823202/181189
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. LALIGA 9" tvg-logo="" group-title="DEPORTES",|ES-4K| M. LALIGA 9
+http://carre.flysat.live:80/152078148493983/152041672823202/181188
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. LALIGA 10" tvg-logo="" group-title="DEPORTES",|ES-4K| M. LALIGA 10
+http://carre.flysat.live:80/152078148493983/152041672823202/181187
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. DEPORTES1" tvg-logo="" group-title="DEPORTES",|ES-4K| M. DEPORTES1
+http://carre.flysat.live:80/152078148493983/152041672823202/181186
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. DEPORTES2" tvg-logo="" group-title="DEPORTES",|ES-4K| M. DEPORTES2
+http://carre.flysat.live:80/152078148493983/152041672823202/181185
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. DEPORTES3" tvg-logo="" group-title="DEPORTES",|ES-4K| M. DEPORTES3
+http://carre.flysat.live:80/152078148493983/152041672823202/181184
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. DEPORTES4" tvg-logo="" group-title="DEPORTES",|ES-4K| M. DEPORTES4
+http://carre.flysat.live:80/152078148493983/152041672823202/181183
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. DEPORTES 5" tvg-logo="" group-title="DEPORTES",|ES-4K| M. DEPORTES 5
+http://carre.flysat.live:80/152078148493983/152041672823202/181182
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. DEPORTES 6" tvg-logo="" group-title="DEPORTES",|ES-4K| M. DEPORTES 6
+http://carre.flysat.live:80/152078148493983/152041672823202/181181
+#EXTINF:-1 tvg-id="" tvg-name="|ES-4K| M. DEPORTES 7" tvg-logo="" group-title="DEPORTES",|ES-4K| M. DEPORTES 7
+http://carre.flysat.live:80/152078148493983/152041672823202/181180
+#EXTINF:-1 tvg-id="" tvg-name="----------- |SP| NOTICIAS HD ---------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="TDT",----------- |SP| NOTICIAS HD ---------
+http://carre.flysat.live:80/152078148493983/152041672823202/79251
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FOX NEWS" tvg-logo="https://i5.satexpat.com/cha/us/fox-news-63x60.png" group-title="TDT",|SP| FOX NEWS
+http://carre.flysat.live:80/152078148493983/152041672823202/79250
+#EXTINF:-1 tvg-id="" tvg-name="##### TDT | 4 K (4K) #####" tvg-logo="" group-title="ZONA 4K ",##### TDT | 4 K (4K) #####
+http://carre.flysat.live:80/152078148493983/152041672823202/172029
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| CORONA VIRUS INFO" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| CORONA VIRUS INFO
+http://carre.flysat.live:80/152078148493983/152041672823202/172028
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| TVE INTERNACIONAL" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| TVE INTERNACIONAL
+http://carre.flysat.live:80/152078148493983/152041672823202/172027
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| LA 1 HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| LA 1 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/172026
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| LA 2 HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| LA 2 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/172025
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| ANTENA 3 HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| ANTENA 3 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/172024
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| CUATRO HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| CUATRO HD
+http://carre.flysat.live:80/152078148493983/152041672823202/172023
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| TELECINCO HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| TELECINCO HD
+http://carre.flysat.live:80/152078148493983/152041672823202/172022
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| LA SEXTA HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| LA SEXTA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/172021
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| CANAL SUR A." tvg-logo="" group-title="ZONA 4K ",|SP|4 K| CANAL SUR A.
+http://carre.flysat.live:80/152078148493983/152041672823202/172020
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| NOVA" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| NOVA
+http://carre.flysat.live:80/152078148493983/152041672823202/172019
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| CANAL 24 HORAS" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| CANAL 24 HORAS
+http://carre.flysat.live:80/152078148493983/152041672823202/172018
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| CANAL ORBE21" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| CANAL ORBE21
+http://carre.flysat.live:80/152078148493983/152041672823202/172017
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| 24 HORAS" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| 24 HORAS
+http://carre.flysat.live:80/152078148493983/152041672823202/172016
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| TVGA HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| TVGA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/172015
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| FDF" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| FDF
+http://carre.flysat.live:80/152078148493983/152041672823202/172014
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| CLAN TVE" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| CLAN TVE
+http://carre.flysat.live:80/152078148493983/152041672823202/172013
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| HOLLYWOOD HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| HOLLYWOOD HD
+http://carre.flysat.live:80/152078148493983/152041672823202/172012
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| IBERALIA TV" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| IBERALIA TV
+http://carre.flysat.live:80/152078148493983/152041672823202/172011
+#EXTINF:-1 tvg-id="" tvg-name="|SP| MEGA HD [4 K]" tvg-logo="" group-title="ZONA 4K ",|SP| MEGA HD [4 K]
+http://carre.flysat.live:80/152078148493983/152041672823202/172010
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| #VAMOS HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| #VAMOS HD
+http://carre.flysat.live:80/152078148493983/152041672823202/172009
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| XTRM HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| XTRM HD
+http://carre.flysat.live:80/152078148493983/152041672823202/172008
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| NEOX" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| NEOX
+http://carre.flysat.live:80/152078148493983/152041672823202/172007
+#EXTINF:-1 tvg-id="" tvg-name="##### |SP| NINOS | 4 K (4K) #####" tvg-logo="" group-title="ZONA 4K ",##### |SP| NINOS | 4 K (4K) #####
+http://carre.flysat.live:80/152078148493983/152041672823202/172006
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| BABY TV" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| BABY TV
+http://carre.flysat.live:80/152078148493983/152041672823202/172005
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| BOING" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| BOING
+http://carre.flysat.live:80/152078148493983/152041672823202/172004
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| CANAL PANDA" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| CANAL PANDA
+http://carre.flysat.live:80/152078148493983/152041672823202/172003
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| COMEDYCENTRAL HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| COMEDYCENTRAL HD
+http://carre.flysat.live:80/152078148493983/152041672823202/172002
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| DISNEY CH HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| DISNEY CH HD
+http://carre.flysat.live:80/152078148493983/152041672823202/172001
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| DISNEY JR" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| DISNEY JR
+http://carre.flysat.live:80/152078148493983/152041672823202/172000
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| DREAMWORKS" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| DREAMWORKS
+http://carre.flysat.live:80/152078148493983/152041672823202/171999
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| NICK JR" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| NICK JR
+http://carre.flysat.live:80/152078148493983/152041672823202/171998
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| NICK/MTV" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| NICK/MTV
+http://carre.flysat.live:80/152078148493983/152041672823202/171997
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| NICKELODEON HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| NICKELODEON HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171996
+#EXTINF:-1 tvg-id="" tvg-name="##### |SP| ENTRETENIMIENTO | 4 K (4K) #####" tvg-logo="" group-title="ZONA 4K ",##### |SP| ENTRETENIMIENTO | 4 K (4K) #####
+http://carre.flysat.live:80/152078148493983/152041672823202/171995
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| FOX HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| FOX HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171994
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| FOX LIFE HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| FOX LIFE HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171993
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| 0 HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| 0 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171992
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| AMC HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| AMC HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171991
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| ARAGON TV INT" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| ARAGON TV INT
+http://carre.flysat.live:80/152078148493983/152041672823202/171990
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| AXN" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| AXN
+http://carre.flysat.live:80/152078148493983/152041672823202/171989
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| AXN HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| AXN HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171988
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| AXN WHITE HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| AXN WHITE HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171987
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| SYFY HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| SYFY HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171986
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| TCM HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| TCM HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171985
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| TNT HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| TNT HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171984
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| BE MAD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| BE MAD
+http://carre.flysat.live:80/152078148493983/152041672823202/171983
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| BLAZE" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| BLAZE
+http://carre.flysat.live:80/152078148493983/152041672823202/171982
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| CALLE 13 HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| CALLE 13 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171981
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| CANAL COCINA" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| CANAL COCINA
+http://carre.flysat.live:80/152078148493983/152041672823202/171980
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| CANAL DECASA" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| CANAL DECASA
+http://carre.flysat.live:80/152078148493983/152041672823202/171979
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| CANAL ODISEA" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| CANAL ODISEA
+http://carre.flysat.live:80/152078148493983/152041672823202/171978
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| CAZAYPESCA HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| CAZAYPESCA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171977
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| CLASSICA" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| CLASSICA
+http://carre.flysat.live:80/152078148493983/152041672823202/171976
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| COSMO HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| COSMO HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171975
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| CRIMEN INVES" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| CRIMEN INVES
+http://carre.flysat.live:80/152078148493983/152041672823202/171974
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| DIVINITY" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| DIVINITY
+http://carre.flysat.live:80/152078148493983/152041672823202/171973
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| ENERGY" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| ENERGY
+http://carre.flysat.live:80/152078148493983/152041672823202/171972
+#EXTINF:-1 tvg-id="" tvg-name="##### |SP| MOVIESTAR | 4 K (4K) #####" tvg-logo="" group-title="ZONA 4K ",##### |SP| MOVIESTAR | 4 K (4K) #####
+http://carre.flysat.live:80/152078148493983/152041672823202/171950
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M.ACCION HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M.ACCION HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171949
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M.CINE ESPANOL" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M.CINE ESPANOL
+http://carre.flysat.live:80/152078148493983/152041672823202/171948
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M.COMEDIA HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M.COMEDIA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171947
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M.DRAMA HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M.DRAMA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171946
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M.ESTRENOS HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M.ESTRENOS HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171945
+#EXTINF:-1 tvg-id="M. Series" tvg-name="|SP|4 K| M.SERIES HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M.SERIES HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171942
+#EXTINF:-1 tvg-id="M. Series" tvg-name="|SP|4 K| M.SERIESMANIA HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M.SERIESMANIA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171941
+#EXTINF:-1 tvg-id="" tvg-name="##### |SP| CULTURA | 4 K (4K) #####" tvg-logo="" group-title="ZONA 4K ",##### |SP| CULTURA | 4 K (4K) #####
+http://carre.flysat.live:80/152078148493983/152041672823202/171929
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="|SP|4 K| DISCOVERY" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| DISCOVERY
+http://carre.flysat.live:80/152078148493983/152041672823202/171928
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="|SP|4 K| NAT GEO HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| NAT GEO HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171927
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| NAT GEO WILD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| NAT GEO WILD
+http://carre.flysat.live:80/152078148493983/152041672823202/171926
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="|SP|4 K| NAT GEO WILD HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| NAT GEO WILD HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171925
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="|SP|4 K| PARAMOUNT" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| PARAMOUNT
+http://carre.flysat.live:80/152078148493983/152041672823202/171924
+#EXTINF:-1 tvg-id="VH1" tvg-name="|SP|4 K| VH1" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| VH1
+http://carre.flysat.live:80/152078148493983/152041672823202/171923
+#EXTINF:-1 tvg-id="Viajar" tvg-name="|SP|4 K| VIAJAR HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| VIAJAR HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171922
+#EXTINF:-1 tvg-id="Historia" tvg-name="|SP|4 K| HISTORIA" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| HISTORIA
+http://carre.flysat.live:80/152078148493983/152041672823202/171921
+#EXTINF:-1 tvg-id="" tvg-name="##### |SP| SPORTS | 4 K (4K) #####" tvg-logo="" group-title="ZONA 4K ",##### |SP| SPORTS | 4 K (4K) #####
+http://carre.flysat.live:80/152078148493983/152041672823202/171971
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M.LALIGA HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M.LALIGA HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171969
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| EUROSPORT1 HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| EUROSPORT1 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171968
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| EUROSPORT 1" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| EUROSPORT 1
+http://carre.flysat.live:80/152078148493983/152041672823202/171967
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| EUROSPORT 2" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| EUROSPORT 2
+http://carre.flysat.live:80/152078148493983/152041672823202/171966
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| GOL" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| GOL
+http://carre.flysat.live:80/152078148493983/152041672823202/171965
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| BAR TV" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| BAR TV
+http://carre.flysat.live:80/152078148493983/152041672823202/171964
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| R.MADRID TV" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| R.MADRID TV
+http://carre.flysat.live:80/152078148493983/152041672823202/171963
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| TOROS HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| TOROS HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171962
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M.FORMULA1 HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M.FORMULA1 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171961
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M.FORMULA1" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M.FORMULA1
+http://carre.flysat.live:80/152078148493983/152041672823202/171960
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M.GOLF HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M.GOLF HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171959
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| DAZN 1 HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| DAZN 1 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171958
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| DAZN 2 HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| DAZN 2 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171957
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| DAZN 3 HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| DAZN 3 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171956
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| DAZN 4 HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| DAZN 4 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171955
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| DAZN F1 HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| DAZN F1 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171954
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://carre.flysat.live:80/152078148493983/152041672823202/171953
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://carre.flysat.live:80/152078148493983/152041672823202/171952
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://carre.flysat.live:80/152078148493983/152041672823202/171951
+#EXTINF:-1 tvg-id="" tvg-name="##### |SP| DEPORTES | 4 K (4K) #####" tvg-logo="" group-title="ZONA 4K ",##### |SP| DEPORTES | 4 K (4K) #####
+http://carre.flysat.live:80/152078148493983/152041672823202/171940
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M. DEPORTES HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M. DEPORTES HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171939
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M.DEPORTES1 HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M.DEPORTES1 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171938
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="|SP|4 K| TELEDEPORTE" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| TELEDEPORTE
+http://carre.flysat.live:80/152078148493983/152041672823202/171937
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="|SP|4 K| MEZZO" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| MEZZO
+http://carre.flysat.live:80/152078148493983/152041672823202/171936
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="|SP|4 K| MEZZO LIVE HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| MEZZO LIVE HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171935
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| M.WIMBLEDON HD" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| M.WIMBLEDON HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171934
+#EXTINF:-1 tvg-id="" tvg-name="##### |SP| NOTICIAS | 4 K (4K )#####" tvg-logo="" group-title="ZONA 4K ",##### |SP| NOTICIAS | 4 K (4K )#####
+http://carre.flysat.live:80/152078148493983/152041672823202/171920
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| FOX NEWS" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| FOX NEWS
+http://carre.flysat.live:80/152078148493983/152041672823202/171919
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  MUSIC LATINO" tvg-logo="" group-title="ZONA 4K ",|SP|  MUSIC LATINO
+http://carre.flysat.live:80/152078148493983/152041672823202/171918
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  KIDS MASHA Y EL OSO" tvg-logo="" group-title="ZONA 4K ",|SP|  KIDS MASHA Y EL OSO
+http://carre.flysat.live:80/152078148493983/152041672823202/171917
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  KIDS MR BEAN" tvg-logo="" group-title="ZONA 4K ",|SP|  KIDS MR BEAN
+http://carre.flysat.live:80/152078148493983/152041672823202/171916
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  KIDS MUPPET BABIES" tvg-logo="" group-title="ZONA 4K ",|SP|  KIDS MUPPET BABIES
+http://carre.flysat.live:80/152078148493983/152041672823202/171915
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  KIDS MICKY MOUSE" tvg-logo="" group-title="ZONA 4K ",|SP|  KIDS MICKY MOUSE
+http://carre.flysat.live:80/152078148493983/152041672823202/171914
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  MOVIES ACTION" tvg-logo="" group-title="ZONA 4K ",|SP|  MOVIES ACTION
+http://carre.flysat.live:80/152078148493983/152041672823202/171913
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  MOVIES COMEDY" tvg-logo="" group-title="ZONA 4K ",|SP|  MOVIES COMEDY
+http://carre.flysat.live:80/152078148493983/152041672823202/171912
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  KIDS WOODY WOODPECKER" tvg-logo="" group-title="ZONA 4K ",|SP|  KIDS WOODY WOODPECKER
+http://carre.flysat.live:80/152078148493983/152041672823202/171911
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  MOVIES HORROR" tvg-logo="" group-title="ZONA 4K ",|SP|  MOVIES HORROR
+http://carre.flysat.live:80/152078148493983/152041672823202/171910
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  MOVIES ROMANTIC" tvg-logo="" group-title="ZONA 4K ",|SP|  MOVIES ROMANTIC
+http://carre.flysat.live:80/152078148493983/152041672823202/171909
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  MOVIES JOHN TRAVOLTA" tvg-logo="" group-title="ZONA 4K ",|SP|  MOVIES JOHN TRAVOLTA
+http://carre.flysat.live:80/152078148493983/152041672823202/171907
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  MOVIES ROBERT DE NIRO" tvg-logo="" group-title="ZONA 4K ",|SP|  MOVIES ROBERT DE NIRO
+http://carre.flysat.live:80/152078148493983/152041672823202/171906
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  MOVIES JACKIE CHAN" tvg-logo="" group-title="ZONA 4K ",|SP|  MOVIES JACKIE CHAN
+http://carre.flysat.live:80/152078148493983/152041672823202/171905
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  MOVIES TOM CRUISE" tvg-logo="" group-title="ZONA 4K ",|SP|  MOVIES TOM CRUISE
+http://carre.flysat.live:80/152078148493983/152041672823202/171904
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  MOVIES MEL GIBSON" tvg-logo="" group-title="ZONA 4K ",|SP|  MOVIES MEL GIBSON
+http://carre.flysat.live:80/152078148493983/152041672823202/171903
+#EXTINF:-1 tvg-id="" tvg-name="##### |SP| MUSICA |4 K (4K) #####" tvg-logo="" group-title="ZONA 4K ",##### |SP| MUSICA |4 K (4K) #####
+http://carre.flysat.live:80/152078148493983/152041672823202/171933
+#EXTINF:-1 tvg-id="MTV Music" tvg-name="|SP|4 K| MTV" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| MTV
+http://carre.flysat.live:80/152078148493983/152041672823202/171932
+#EXTINF:-1 tvg-id="MTV España" tvg-name="|SP|4 K| MTV ESPA¹A" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| MTV ESPA¹A
+http://carre.flysat.live:80/152078148493983/152041672823202/171931
+#EXTINF:-1 tvg-id="Sundance Channel" tvg-name="|SP|4 K| SUNDANCE TV" tvg-logo="" group-title="ZONA 4K ",|SP|4 K| SUNDANCE TV
+http://carre.flysat.live:80/152078148493983/152041672823202/171930
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| DAZN 1 HD" tvg-logo="" group-title="DAZN",|SP|4 K| DAZN 1 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171958
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| DAZN 2 HD" tvg-logo="" group-title="DAZN",|SP|4 K| DAZN 2 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171957
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| DAZN 3 HD" tvg-logo="" group-title="DAZN",|SP|4 K| DAZN 3 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171956
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| DAZN 4 HD" tvg-logo="" group-title="DAZN",|SP|4 K| DAZN 4 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171955
+#EXTINF:-1 tvg-id="" tvg-name="|SP|4 K| DAZN F1 HD" tvg-logo="" group-title="DAZN",|SP|4 K| DAZN F1 HD
+http://carre.flysat.live:80/152078148493983/152041672823202/171954
